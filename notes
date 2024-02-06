@@ -21,7 +21,7 @@ Basic Data Science Project Lifecycle:
 2. Data Collection : This is also given. Use train.csv file for the data and test.csv for prediction.
 3. Data Cleaning and Preprocessing : Before performing EDA, one should handle missing values and transforming data into a suitable format
     In this case, there are null-values for almost every variable.
-        - 'Age' with mean, 'Name' with 'Unknown' and all others with mode
+        - 'Age' with meang, 'Name' with 'Unknown' and all others with mode
 4. EDA :
     1) descriptive statistics
     2) distribution check

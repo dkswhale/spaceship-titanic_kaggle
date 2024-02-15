@@ -62,3 +62,21 @@ feature skew 된거를 standard scalar 써서 0-1로 노멀라이즈
 correlation이 높은애들은 그 한 카테고리의 비중이 치우쳐져있으면 실제 테스트할때 다른 비중이 나올경우
 덜 정확할 확률이 있어서, 랜덤샘플링으로 유니폼하게 맞춰서 진행하면 좋음
 
+
+svc -> hyperparameter
+(c = )
+
+knn, dt, neural network, svm, randomforest
+
+tensorflow, pytorch -> mlp
+
+
+그리드서치 마무리하고
+
+섭밋 먼저 대충 해보고
+
+tensorflow -> 0.82
+
+그거 보고 나도 공부하고,
+
+R 써서 하는 방법도 찾아보고
